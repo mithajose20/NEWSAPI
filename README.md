@@ -1,5 +1,5 @@
 # NewsAPI
-A web small application that accomplishes the following:
+A small  web application that accomplishes the following:
 
 The main screen will load news sources and will then need to present with the following information.
 - Source title
